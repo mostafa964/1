@@ -24,7 +24,7 @@ div::before {
 
 div::after {
   content: "";
-  background-color: #0066ff;
+  background-color: #00c3ff;
   width: 105%;
   height: 105%;
   position: absolute;
